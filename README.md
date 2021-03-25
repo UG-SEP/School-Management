@@ -16,7 +16,7 @@
 `Properties` | `Value`
 ----------- | -----------
 `Developer:` | `Ujjwal Gupta`
-`Game Version` | `1.00.00.1`
+`App Version` | `1.00.00.1`
 <br/>
 <img src="https://github.com/UG-SEP/School-Management/blob/UG/School%20management/screenshots/1.jpg" alt="Image">
 <img src="https://github.com/UG-SEP/School-Management/blob/UG/School%20management/screenshots/2.jpg" alt="Image">
