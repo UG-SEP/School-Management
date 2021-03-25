@@ -1,2 +1,2 @@
-# School-Management
-This is a school management project more detail coming soon...
+# **_🏫School-Management🏫_**
+ # more information comming soon 
